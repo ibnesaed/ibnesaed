@@ -32,12 +32,13 @@ Everything here is cited. Sources: [Quran.com](https://quran.com), [Sunnah.com](
 | Platform | Link |
 |---|---|
 | YouTube | [@ibnesaed](https://www.youtube.com/@ibnesaed) |
-| Instagram | [@ibnesaed](#) |
-| TikTok | [@ibnesaed](#) |
-| Telegram (daily ayah) | [@ibnesaed](#) |
-| WhatsApp Channel | [Link](#) |
-| LinkedIn | [Link](#) |
-| All platforms | [Link in bio / linktree](#) |
+| Instagram | [@ibnesaed]([#](https://www.instagram.com/ibnesaed/)) |
+| TikTok | [@ibnesaed]([#](https://www.tiktok.com/@ibnesaed)) |
+| Telegram (daily ayah) | [@ibnesaed](t.me/ibnesaed
+) |
+| WhatsApp Channel | [Link](https://whatsapp.com/channel/0029VbB8eul89infbcykoJ0U) |
+| LinkedIn | [Link](www.linkedin.com/in/ibnesaed) |
+| All platforms | [linktree]([#](https://alfan.link/ibn.e.saed)) |
 
 <br>
 
