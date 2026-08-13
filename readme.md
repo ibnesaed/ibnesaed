@@ -1,22 +1,17 @@
-
-<span style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', sans-serif; direction: rtl;">یہ اردو ٹیکسٹ ہے۔</span>
-
-
 <div align="center">
 
 # السلام عليكم ورحمة الله وبركاته
 
-### ابن سعيد — Ibne Saed
+### ابن سعيد — ibneSaed
 
-**Qari &middot; Islamic Researcher &middot; Developer**
+**QUran Reciter &middot; Islamic Researcher &middot; Developer**
 
-Recitation and research for a global audience — Urdu · Arabic · Farsi · English
-
+Recitation and research for a global audience
 </div>
 
 <br>
 
-## قاری و اسلامی محقق — Qari & Islamic Researcher
+
 
 I recite and research the Quran — tilawat with tajweed discipline, paired with tafsir, hadith context, and the history behind the verse. This GitHub is where the developer side of that work lives: open-source tools, research notes, and datasets for Quranic study.
 
