@@ -31,7 +31,7 @@ Everything here is cited. Sources: [Quran.com](https://quran.com), [Sunnah.com](
 
 | Platform | Link |
 |---|---|
-| YouTube | [@ibnesaed](#) |
+| YouTube | [@ibnesaed](https://www.youtube.com/@ibnesaed) |
 | Instagram | [@ibnesaed](#) |
 | TikTok | [@ibnesaed](#) |
 | Telegram (daily ayah) | [@ibnesaed](#) |
