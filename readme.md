@@ -1,3 +1,7 @@
+
+<span style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', sans-serif; font-size: 24px; direction: rtl;">یہ اردو ٹیکسٹ ہے۔</span>
+
+
 <div align="center">
 
 # السلام عليكم ورحمة الله وبركاته
