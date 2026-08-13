@@ -1,10 +1,10 @@
 <div align="center">
 
-# السلام عليكم ورحمة الله وبركاته
 
-### ابن سعيد — ibneSaed
 
-**QUran Reciter &middot; Islamic Researcher &middot; Developer**
+# ابن سعيد — ibnesaed
+
+**Quran Reciter &middot; Islamic Researcher &middot; Developer**
 
 Recitation and research for a global audience
 </div>
